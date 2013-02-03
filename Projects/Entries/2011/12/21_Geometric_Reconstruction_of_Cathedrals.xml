@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Geometric Reconstruction&#xD;of Cathedrals&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Geometric Reconstruction of Cathedrals</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Given a dense point cloud scan of the Bourges Cathedral in France, this project aims to geometrically reconstruct the cathedral as to identify the cathedral's structural integrity. It does this by running an ICP (iterative closest point) algorithm to fit geometric primitives to the point cloud with the help of with user interaction. Other features include acceleration structures in order to quickly navigate through the cathedral, as well as different user interactions to aid the geometric fitting. &lt;a href="http://mit.edu/jpchan/www/MEng_proposal.pdf"&gt;Click here&lt;/a&gt;&lt;a href="http://mit.edu/jpchan/www/MEng_proposal.pdf"&gt; &lt;/a&gt;to read my M.Eng proposal.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;	I.	Eng Thesis &#x2019;12&#xD;&lt;/b&gt;&lt;b&gt;Emily Whiting, Fredo Durand&#xD;MIT Computer Graphics Group&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Geometric_Reconstruction_of_Cathedrals_files/shapeimage_2.png" left="0px" top="0px" width="188px" height="131px"/>
+</content>

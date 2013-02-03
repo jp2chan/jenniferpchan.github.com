@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:48 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;VAM&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Video Annotation Motion Capture&#xD;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Implemented a Video Annotation Mocap System (or VAM for short). Using only two web cameras, this system provides an interface for a user to quickly annotate and mark frames from the two video feeds, interpolates between those points, and maps it to a inverse-kinematics rigged 3D character. Its goal is to make motion capture easier and more accessible, as it only uses two web cameras and doesn't require any fancy or expensive equipment. Future implementations include using vision to ease the process of annotating the video. A project page is in development. &#xD;&#xD;This project was continued as a final project for 6.869, Advances in Computer Vision. It used background subjection by taking the mean of the pixel color of each of the frames. It then isolated the performer by subtracting each frame by this background frame. It then identifies the color of each marker, and uses a patch matching algorithm to follow the path of each of the markers.  </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Spring 2010&#xD;Robert Wang &amp; Fredo Durand&#xD;MIT Computer Graphics Group&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Video_Annotation_Motion_Capture_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

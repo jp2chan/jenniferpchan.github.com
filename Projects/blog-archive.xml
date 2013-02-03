@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Projects</title>
+    <link>http://jenniferpchan.com/Jennifer_Chan/Projects</link>
+    <description>While at MIT, I&#x2019;ve had a chance to be a part of a lot of awesome projects through internships, UROPs, and class projects.  Take a gander... and if you don&#x2019;t have the time to read about all of my cool projects, you can see one sentence summaries in my resume</description>
+    <item>
+      <title>Geometric Reconstruction of Cathedrals</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/12/21_Geometric_Reconstruction_of_Cathedrals.html</link>
+      <guid isPermaLink="false">51ac57d6-8ec5-478d-aca0-446ec359712d</guid>
+      <pubDate>Wed, 21 Dec 2011 21:18:20 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/12/21_Geometric_Reconstruction_of_Cathedrals.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Disney Externship</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/12/19_Disney_Externship.html</link>
+      <guid isPermaLink="false">b323572d-39ab-4da9-8ec2-59dee500c351</guid>
+      <pubDate>Mon, 19 Dec 2011 18:39:51 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/12/19_Disney_Externship.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Apple Internships</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/6/19_Apple_Internships.html</link>
+      <guid isPermaLink="false">51ab94be-fe8c-4063-af9f-58822bf71eed</guid>
+      <pubDate>Sun, 19 Jun 2011 18:39:57 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/6/19_Apple_Internships.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Video Annotation Motion Capture&#13;</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/5/20_Video_Annotation_Motion_Capture.html</link>
+      <guid isPermaLink="false">44b5f887-b9c3-45e4-959c-8abda1e8996e</guid>
+      <pubDate>Fri, 20 May 2011 18:25:38 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/5/20_Video_Annotation_Motion_Capture.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Video Copy and Paste</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/5/19_Video_Copy_and_Paste.html</link>
+      <guid isPermaLink="false">60d51c8b-40af-4c2e-a785-c43712a731c7</guid>
+      <pubDate>Thu, 19 May 2011 22:40:32 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/5/19_Video_Copy_and_Paste.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>JIVE</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/3/20_JIVE.html</link>
+      <guid isPermaLink="false">4f609395-01cd-4ac3-a194-ac1fdf8aee44</guid>
+      <pubDate>Sun, 20 Mar 2011 18:28:22 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/3/20_JIVE.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>High Striker</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/10/19_High_Striker.html</link>
+      <guid isPermaLink="false">40f2754f-dcd8-426b-aa60-a80e5cde5214</guid>
+      <pubDate>Tue, 19 Oct 2010 18:29:22 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/10/19_High_Striker.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Rock Maestro</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/3/19_Rock_Maestro.html</link>
+      <guid isPermaLink="false">cc4b2cd4-dc89-4eba-a64d-d27ef9eb1f96</guid>
+      <pubDate>Fri, 19 Mar 2010 18:32:30 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/3/19_Rock_Maestro.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Hand Tracking</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/1/19_Hand_Tracking.html</link>
+      <guid isPermaLink="false">cc7e6d77-f02d-4cfc-80a0-34d5d7bc2bd8</guid>
+      <pubDate>Tue, 19 Jan 2010 18:32:05 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/1/19_Hand_Tracking.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Memtable and Googlewave</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2009/11/19_Memtable_and_Googlewave.html</link>
+      <guid isPermaLink="false">e2bc34de-c5ca-4f42-a131-2e3ecd371679</guid>
+      <pubDate>Thu, 19 Nov 2009 18:33:15 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2009/11/19_Memtable_and_Googlewave.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Charles River Analytics</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2009/6/19_Charles_River_Analytics.html</link>
+      <guid isPermaLink="false">953ebd83-abbb-48ad-a1ec-2e5bfe2c990f</guid>
+      <pubDate>Fri, 19 Jun 2009 18:36:45 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2009/6/19_Charles_River_Analytics.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Twitter Visualizations</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2008/9/19_Twitter_Visualizations.html</link>
+      <guid isPermaLink="false">280c43ab-4d15-480f-8d79-298c8afe39b1</guid>
+      <pubDate>Fri, 19 Sep 2008 18:36:02 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2008/9/19_Twitter_Visualizations.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>UAV Simulation Survey</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2008/3/19_UAV_Simulation_Survey.html</link>
+      <guid isPermaLink="false">7047d71e-cf33-4c1d-a5c3-c8390abfd80c</guid>
+      <pubDate>Wed, 19 Mar 2008 18:37:22 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2008/3/19_UAV_Simulation_Survey.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Balloon Shooters</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2008/1/19_Balloon_Shooters.html</link>
+      <guid isPermaLink="false">d7246e6b-2a69-474b-8edf-0b3e74ee1d61</guid>
+      <pubDate>Sat, 19 Jan 2008 21:24:34 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2008/1/19_Balloon_Shooters.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://jenniferpchan.com/Jennifer_Chan/Projects</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

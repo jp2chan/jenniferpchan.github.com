@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;UAV Simulation&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>UAV Simulation Survey</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Created a Java GUI that surveys users after that complete a flight simulation</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Spring 2008&#xD;Sylvain Bruni &amp; Missy Cummings &#xD;MIT Human and Automation Lab&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_UAV_Simulation_Survey_files/shapeimage_2.png" left="0px" top="0px" width="190px" height="211px"/>
+</content>

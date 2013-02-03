@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:48 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;JIVE&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>JIVE</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>JIVE stands for Jos Image Viewer Extravaganza.  In 6.828, our operating systems class, we implemented a basic shell, which we called JOS.  For our final project, Adam and I decided to do a basic image viewer for JOS.  This involved dropping into v8086 environment to emulate real mode and then writing code for the vesa graphics driver.  We then wrote a small graphics library and a bitmap reader library.  Our final implementation allowed the user to toggle through various bitmap images, as well as play a sequence of bitmap images using our animated bitmap viewer.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Fall 2011&#xD;6.828 Operating Systems Final Project&#xD;Jennifer Chan, Adam Leonard&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_JIVE_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

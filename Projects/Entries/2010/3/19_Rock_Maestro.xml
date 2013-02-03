@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Rock Maestro&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Rock Maestro</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Done as the final project for 6.813, MIT's user interface class, this project was meant to explore an interesting kind of interaction. Our concept originated from Rock Band and Guitar Hero, and our project aimed to be a creation tool for the songs in Rock Band. This user interface was designed to allow people to create the songs to hypothetically be used in Rock Band or Guitar Hero. Done in Adobe Flex</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Spring 2010&#xD;6.813 User Interfaces Final Project &#xD;Jennifer Chan, Kimberly Baldauf, Nicole Holm</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Rock_Maestro_files/shapeimage_2.png" left="0px" top="0px" width="495px" height="292px"/>
+</content>

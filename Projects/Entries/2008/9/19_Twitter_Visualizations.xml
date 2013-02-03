@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Twitter Visualizations&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Twitter Visualizations</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Extracted Twitter data to visually represent characteristics of users &amp; better understand social networking. Used Java, SQL, Python, and Processing to create visualizations of the daily rhythms of micro-blog postings by utilizing Voronoi Diagrams and Delaunay Triangulations Contributed to the paper presented at Siggraph 2010</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Fall 2008 &#xD;Alex Dragulescu and Judith Donath &#xD;Sociable Media Group- MIT Media Lab</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Twitter_Visualizations_files/shapeimage_2.png" left="0px" top="0px" width="298px" height="224px"/>
+</content>

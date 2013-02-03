@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Projects</title>
+    <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Projects.html</link>
+    <description>While at MIT, I’ve had a chance to be a part of a lot of awesome projects through internships, UROPs, and class projects.  Take a gander... and if you don’t have the time to read about all of my cool projects, you can see one sentence summaries in my resume</description>
+    <generator>iWeb 3.0.4</generator>
+    <item>
+      <title>Geometric Reconstruction of Cathedrals</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/12/21_Geometric_Reconstruction_of_Cathedrals.html</link>
+      <guid isPermaLink="false">51ac57d6-8ec5-478d-aca0-446ec359712d</guid>
+      <pubDate>Wed, 21 Dec 2011 21:18:20 -0500</pubDate>
+      <description>&lt;a href=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/12/21_Geometric_Reconstruction_of_Cathedrals_files/bourges.jpg&quot;&gt;&lt;img src=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Media/object038.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:188px; height:131px;&quot;/&gt;&lt;/a&gt;Given a dense point cloud scan of the Bourges Cathedral in France, this project aims to geometrically reconstruct the cathedral as to identify the cathedral's structural integrity. It does this by running an ICP (iterative closest point) algorithm to fit geometric primitives to the point cloud with the help of with user interaction. Other features include acceleration structures in order to quickly navigate through the cathedral, as well as different user interactions to aid the geometric fitting. &lt;a href=&quot;http://mit.edu/jpchan/www/MEng_proposal.pdf&quot;&gt;Click here &lt;/a&gt;to read my M.Eng proposal.&lt;br/&gt;</description>
+      <enclosure url="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/12/21_Geometric_Reconstruction_of_Cathedrals_files/bourges.jpg" length="69031" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Disney Externship</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/12/19_Disney_Externship.html</link>
+      <guid isPermaLink="false">b323572d-39ab-4da9-8ec2-59dee500c351</guid>
+      <pubDate>Mon, 19 Dec 2011 18:39:51 -0500</pubDate>
+      <description>&lt;a href=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/12/19_Disney_Externship_files/walt%20disney%20animation%20studios%20logo.jpg&quot;&gt;&lt;img src=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Media/object039.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;Used Qt, C++, OpenGL, &amp;amp; MEL to create an interactive visualization of radial basis functions for Disney’s&lt;br/&gt;pose space deformation system in Maya</description>
+      <enclosure url="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/12/19_Disney_Externship_files/walt%20disney%20animation%20studios%20logo.jpg" length="73994" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Apple Internships</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/6/19_Apple_Internships.html</link>
+      <guid isPermaLink="false">51ab94be-fe8c-4063-af9f-58822bf71eed</guid>
+      <pubDate>Sun, 19 Jun 2011 18:39:57 -0400</pubDate>
+      <description>&lt;a href=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/6/19_Apple_Internships_files/apple.jpg&quot;&gt;&lt;img src=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Media/object040.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;Top secret ninja work with the Keynote drawables team</description>
+      <enclosure url="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/6/19_Apple_Internships_files/apple.jpg" length="2684" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Video Annotation Motion Capture&#13;</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/5/20_Video_Annotation_Motion_Capture.html</link>
+      <guid isPermaLink="false">44b5f887-b9c3-45e4-959c-8abda1e8996e</guid>
+      <pubDate>Fri, 20 May 2011 18:25:38 -0400</pubDate>
+      <description>&lt;a href=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/5/20_Video_Annotation_Motion_Capture_files/mocap.jpg&quot;&gt;&lt;img src=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Media/object041.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;Implemented a Video Annotation Mocap System (or VAM for short). Using only two web cameras, this system provides an interface for a user to quickly annotate and mark frames from the two video feeds, interpolates between those points, and maps it to a inverse-kinematics rigged 3D character. Its goal is to make motion capture easier and more accessible, as it only uses two web cameras and doesn't require any fancy or expensive equipment. Future implementations include using vision to ease the process of annotating the video. A project page is in development. &lt;br/&gt;&lt;br/&gt;This project was continued as a final project for 6.869, Advances in Computer Vision. It used background subjection by taking the mean of the pixel color of each of the frames. It then isolated the performer by subtracting each frame by this background frame. It then identifies the color of each marker, and uses a patch matching algorithm to follow the path of each of the markers.  </description>
+      <enclosure url="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/5/20_Video_Annotation_Motion_Capture_files/mocap.jpg" length="74153" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Video Copy and Paste</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/5/19_Video_Copy_and_Paste.html</link>
+      <guid isPermaLink="false">60d51c8b-40af-4c2e-a785-c43712a731c7</guid>
+      <pubDate>Thu, 19 May 2011 22:40:32 -0400</pubDate>
+      <description>&lt;a href=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/5/19_Video_Copy_and_Paste_files/moon1.jpg&quot;&gt;&lt;img src=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Media/object042.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;Foreground extraction in video and images has been a widely explored problem; however, few address the variation of lighting and contrast when it comes to compositing an extracted foreground on a background. For our final project, we created a video cut and paste algorithm that extracts the foreground of a moving object and considers lighting conditions to integrate it with the background. We track the motion with optical flow and compos- ite the frames with a 3D temporal poisson blending. Our implementation successfully tracks the motion of a rigid body in one video and blends it into another image or video.&lt;br/&gt;</description>
+      <enclosure url="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/5/19_Video_Copy_and_Paste_files/moon1.jpg" length="87961" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>JIVE</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/3/20_JIVE.html</link>
+      <guid isPermaLink="false">4f609395-01cd-4ac3-a194-ac1fdf8aee44</guid>
+      <pubDate>Sun, 20 Mar 2011 18:28:22 -0400</pubDate>
+      <description>&lt;a href=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/3/20_JIVE_files/slide1.jpg&quot;&gt;&lt;img src=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Media/object043.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;JIVE stands for Jos Image Viewer Extravaganza.  In 6.828, our operating systems class, we implemented a basic shell, which we called JOS.  For our final project, Adam and I decided to do a basic image viewer for JOS.  This involved dropping into v8086 environment to emulate real mode and then writing code for the vesa graphics driver.  We then wrote a small graphics library and a bitmap reader library.  Our final implementation allowed the user to toggle through various bitmap images, as well as play a sequence of bitmap images using our animated bitmap viewer.&lt;br/&gt;</description>
+      <enclosure url="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2011/3/20_JIVE_files/slide1.jpg" length="13303" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>High Striker</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/10/19_High_Striker.html</link>
+      <guid isPermaLink="false">40f2754f-dcd8-426b-aa60-a80e5cde5214</guid>
+      <pubDate>Tue, 19 Oct 2010 18:29:22 -0400</pubDate>
+      <description>&lt;a href=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/10/19_High_Striker_files/High%20Striker%20final%20combined.jpg&quot;&gt;&lt;img src=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Media/object044.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;Done as final class project for MIT's 6.111 Microelectronics Laboratory, this project was programmed in verilog on a FPGA. It mimics the popular carnival game called Test Your Strength or High Striker. It consisted of a hammer hooked up to an accelerometer which sends the data to a graphics module, which displays a ball that travels up and down a pole according to gravity and physics. If you hit the target the hard enough (which is simulated by the acceleration of the hammer), the bell rings and shakes. Winner of the 6.111 Best Project Award at the Annual MIT Course 6 Spring Fling.</description>
+      <enclosure url="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/10/19_High_Striker_files/High%20Striker%20final%20combined.jpg" length="206842" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Rock Maestro</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/3/19_Rock_Maestro.html</link>
+      <guid isPermaLink="false">cc4b2cd4-dc89-4eba-a64d-d27ef9eb1f96</guid>
+      <pubDate>Fri, 19 Mar 2010 18:32:30 -0400</pubDate>
+      <description>&lt;a href=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/3/19_Rock_Maestro_files/500px-MainScreen.jpg&quot;&gt;&lt;img src=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Media/object045.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:104px;&quot;/&gt;&lt;/a&gt;Done as the final project for 6.813, MIT's user interface class, this project was meant to explore an interesting kind of interaction. Our concept originated from Rock Band and Guitar Hero, and our project aimed to be a creation tool for the songs in Rock Band. This user interface was designed to allow people to create the songs to hypothetically be used in Rock Band or Guitar Hero. Done in Adobe Flex</description>
+      <enclosure url="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/3/19_Rock_Maestro_files/500px-MainScreen.jpg" length="47907" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Hand Tracking</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/1/19_Hand_Tracking.html</link>
+      <guid isPermaLink="false">cc7e6d77-f02d-4cfc-80a0-34d5d7bc2bd8</guid>
+      <pubDate>Tue, 19 Jan 2010 18:32:05 -0500</pubDate>
+      <description>&lt;a href=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/1/19_Hand_Tracking_files/handmocap.png&quot;&gt;&lt;img src=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Media/object046.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:537px; height:132px;&quot;/&gt;&lt;/a&gt;Refining the movements and rotations of a real time hand tracking system that uses a colored glove and nearest neighbor approximation to cheapen motion capture techniques. Experimented with discretization and interpolation techniques to smooth the jitter from the rotation of the box controlled by the hand tracking system. Done in JOGL.</description>
+      <enclosure url="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2010/1/19_Hand_Tracking_files/handmocap.png" length="232503" type="image/png"/>
+    </item>
+    <item>
+      <title>Memtable and Googlewave</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2009/11/19_Memtable_and_Googlewave.html</link>
+      <guid isPermaLink="false">e2bc34de-c5ca-4f42-a131-2e3ecd371679</guid>
+      <pubDate>Thu, 19 Nov 2009 18:33:15 -0500</pubDate>
+      <description>&lt;a href=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2009/11/19_Memtable_and_Googlewave_files/memtable.jpg&quot;&gt;&lt;img src=&quot;http://jenniferpchan.com/Jennifer_Chan/Projects/Media/object047.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:176px; height:132px;&quot;/&gt;&lt;/a&gt;Given the history of a meeting from a multi-touch memory table aka MemTable , I built Java robots and Javascript gadgets for Google Wave (and a python server using cherrypy) so that users can visualize the meeting history from their personal computers. This Google wave extension allows users to review, title, and tag existing meetings, enhancing the overall user experience of the Memtable. Contributed to the paper presented at CHI 2011</description>
+      <enclosure url="http://jenniferpchan.com/Jennifer_Chan/Projects/Entries/2009/11/19_Memtable_and_Googlewave_files/memtable.jpg" length="84289" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

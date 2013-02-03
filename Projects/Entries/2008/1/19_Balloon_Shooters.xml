@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Balloon Shooters&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Balloon Shooters</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Each January, MIT shuts down and instead holds IAP (aka Independent Activities Period), where students can take classes, both for credit and for fun.  During my first IAP, I took a class called Intro to Processing.  Processing is basically a language that makes it easier to graphically program in Java.  For my final project, I created a game called Balloon Shooters, where you accumulate points, by well, shooting balloons, where each balloon has a different point value.  Consider this my first foray into graphics. &#xD;&#xD;Our instructor still has our projects on her website:&#xD;&lt;a href="http://mishmadsen.com/6.914/jpchan/applet/"&gt;http://mishmadsen.com/6.914/jpchan/applet/&lt;/a&gt;&#xD;However, be warned that because it&#x2019;s java running in your browser (and the game is in java- not the optimal graphics language), it runs super slow.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;IAP 2008&#xD;Intro to Processing, Final Project&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Balloon_Shooters_files/shapeimage_2.png" left="0px" top="0px" width="327px" height="245px"/>
+</content>

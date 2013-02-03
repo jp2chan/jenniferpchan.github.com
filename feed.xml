@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:31513967-79C5-4EEC-BC1E-067B4FEE861A</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-02-03T17:20:48-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:829C6BFD-EA75-411A-897E-CEC6C97A616D</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">829C6BFD-EA75-411A-897E-CEC6C97A616D</in-navbar>
+  <link rel="alternate" href="About_Me.html"/>
+  <updated>2013-02-03T17:20:48.001-05:00</updated>
+  <content>About Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D6FB6C94-9110-4755-A422-B10AD11FDDF1</id>
+  <title>Academics</title>
+  <title xmlns="urn:iweb:">Academics</title>
+  <in-navbar xmlns="urn:iweb:">D6FB6C94-9110-4755-A422-B10AD11FDDF1</in-navbar>
+  <link rel="alternate" href="Academics.html"/>
+  <updated>2013-02-03T17:20:48.002-05:00</updated>
+  <content>Academics</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:12903095-CC8D-4C72-A35E-479C3C08DF2E</id>
+  <title>Projects</title>
+  <title xmlns="urn:iweb:">Projects</title>
+  <in-navbar xmlns="urn:iweb:">12903095-CC8D-4C72-A35E-479C3C08DF2E</in-navbar>
+  <link rel="alternate" href="Projects/Projects.html"/>
+  <updated>2007-01-23T12:29:52-05:00</updated>
+  <content>Projects</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4B34A93A-F1C7-4820-AB66-181B56D3795D</id>
+  <title>Portfolio</title>
+  <title xmlns="urn:iweb:">Portfolio</title>
+  <in-navbar xmlns="urn:iweb:">4B34A93A-F1C7-4820-AB66-181B56D3795D</in-navbar>
+  <link rel="alternate" href="Portfolio/Portfolio.html"/>
+  <updated>2013-02-03T17:20:48.003-05:00</updated>
+  <content>Portfolio</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0BB8B7B1-7D25-4077-BAB2-A8290E864222</id>
+  <title>Videos</title>
+  <title xmlns="urn:iweb:">Videos</title>
+  <in-navbar xmlns="urn:iweb:">0BB8B7B1-7D25-4077-BAB2-A8290E864222</in-navbar>
+  <link rel="alternate" href="Videos.html"/>
+  <updated>2013-02-03T17:20:48.004-05:00</updated>
+  <content>Videos</content>
+ </entry>
+</feed>

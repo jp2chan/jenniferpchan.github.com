@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Portfolio</title>
+    <link>http://jenniferpchan.com/Jennifer_Chan/Portfolio/Portfolio.html</link>
+    <description>Portfolio</description>
+    <item>
+      <title>Sketches</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Portfolio/Pages/Sketches.html</link>
+      <guid isPermaLink="false">fa3d7e9e-f53d-476e-8752-f528d56cd2cc</guid>
+    </item>
+    <item>
+      <title>Maya</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Portfolio/Pages/Maya.html</link>
+      <guid isPermaLink="false">618f2d82-8400-40e9-8ab6-4fb96adc1402</guid>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Portfolio/Pages/Photos.html</link>
+      <guid isPermaLink="false">1a8d37c6-0ebd-4703-8f6e-088e98fdc330</guid>
+    </item>
+    <item>
+      <title>Fashion</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Portfolio/Pages/Fashion.html</link>
+      <guid isPermaLink="false">5376a666-d383-4558-bf06-6b096c1120c2</guid>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>http://jenniferpchan.com/Jennifer_Chan/Portfolio/Pages/Misc.html</link>
+      <guid isPermaLink="false">154eaee5-8505-4337-938b-f5e1b4a6f3c3</guid>
+    </item>
+  </channel>
+</rss>

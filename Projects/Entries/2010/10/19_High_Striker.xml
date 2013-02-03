@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:48 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;High Striker&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>High Striker</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Done as final class project for MIT's 6.111 Microelectronics Laboratory, this project was programmed in verilog on a FPGA. It mimics the popular carnival game called Test Your Strength or High Striker. It consisted of a hammer hooked up to an accelerometer which sends the data to a graphics module, which displays a ball that travels up and down a pole according to gravity and physics. If you hit the target the hard enough (which is simulated by the acceleration of the hammer), the bell rings and shakes. Winner of the 6.111 Best Project Award at the Annual MIT Course 6 Spring Fling.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Final Course Project, Fall 2010 &#xD;MIT 6.111 Microelectronics Laboratory&#xD;Jennifer Chan, Michael Stunes</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_High_Striker_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

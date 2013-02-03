@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Charles River Analytics&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Charles River Analytics</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Responsible for a phase I effort presented to DARPA (Summer 08) Used Java to extend existing flight analysis software that utilized data mining and causal analysis to validate socio-political data to help military commanders determine proper course of actions (Summer 08) Extended the phase I effort of the previous summer project into MAT (Model Analysis Toolkit), a piece of software that utilizes probabilistic systems and causal analysis to validate socio-political models (Summer 09) Used C# to program an audio cue to alert soldiers of any minefields in their proximity (Summer 09)</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Summer 2008, Summer 2009 &#xD;Cambridge, MA</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Charles_River_Analytics_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="103px"/>
+</content>

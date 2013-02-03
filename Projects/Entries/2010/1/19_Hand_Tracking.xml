@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Hand Tracking&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hand Tracking</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Refining the movements and rotations of a real time hand tracking system that uses a colored glove and nearest neighbor approximation to cheapen motion capture techniques. Experimented with discretization and interpolation techniques to smooth the jitter from the rotation of the box controlled by the hand tracking system. Done in JOGL.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>IAP 2010&#xD;Robert Wang and Fredo Durand &#xD;MIT Computer Graphics Group- CSAIL</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Hand_Tracking_files/shapeimage_2.png" left="0px" top="0px" width="541px" height="133px"/>
+</content>

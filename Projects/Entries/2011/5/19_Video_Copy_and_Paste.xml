@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:50 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Video Copy and Paste&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Video Copy and Paste</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Foreground extraction in video and images has been a widely explored problem; however, few address the variation of lighting and contrast when it comes to compositing an extracted foreground on a background. For our final project, we created a video cut and paste algorithm that extracts the foreground of a moving object and considers lighting conditions to integrate it with the background. We track the motion with optical flow and compos- ite the frames with a 3D temporal poisson blending. Our implementation successfully tracks the motion of a rigid body in one video and blends it into another image or video.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Spring 2011&#xD;Computational Photography Final Project&#xD;Jennifer Chan, Kelsey Von Tish&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Video_Copy_and_Paste_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

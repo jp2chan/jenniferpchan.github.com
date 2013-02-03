@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8E322468-3B96-4C8E-B1D0-3E4331E333A0">
+  <lastEdited clientType="local-build-20130203" date="2013-02-03 22:20:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Memtable &amp; Googlewave&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Memtable and Googlewave</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Given the history of a meeting from a multi-touch memory table aka MemTable , I built Java robots and Javascript gadgets for Google Wave (and a python server using cherrypy) so that users can visualize the meeting history from their personal computers. This Google wave extension allows users to review, title, and tag existing meetings, enhancing the overall user experience of the Memtable. Contributed to the paper presented at CHI 2011</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Fall 2009 &#xD;Seth Hunter and Pattie Maes &#xD;Fluid Interfaces Group- MIT Media Lab</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Memtable_and_Googlewave_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>
